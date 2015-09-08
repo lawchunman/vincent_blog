@@ -1,11 +1,10 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
+title: Vincent Blog
+email: vincent.waisun@gmail.com
 description: My simple blog.
-baseurl: ""
-url: ""
+baseurl: "/vincent_blog"
 twitter_username: 
-avatar: "" # Set footer avatar
+avatar: "http://vincentcheungwaisun.appspot.com/img/resume_profile.png" # Set footer avatar
 paginate: 3
 
 # Build settings
@@ -19,8 +18,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "Vincent Cheung" # Set default author name
+      categories: "General"
       layout: "post"
       comments: true
   -
