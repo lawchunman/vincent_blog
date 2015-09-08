@@ -1,13 +1,14 @@
 ---
-title:  "My First Post"
-categories: sample
+title:  "Official website for Vincent Cheung launched!"
+categories: general
 image: feat-img.jpg
 ---
 
-Hi there. This will be your first blog post&mdash;I hope you're excited! To get started, give this post a new title by replacing "My First Post" with your post's title. 
+Hi there. I am happy to announce that my official website is launched. You may visit at below URL: [http://vincentcheungwaisun.appspot.com](http://vincentcheungwaisun.appspot.com)
 
-You can change the post's author name in the `_config.yml` file, or add an `author` variable in the front matter block. 
+There are 2 portions, my CV and Contact. You might click through my CV to get to know more about my background, education, work experience and anything about me. 
 
-To change the post image, replace the image name with your new image. If you don't want to use an image in this post, delete the image variable in the front matter.
+In case you would like to contact me for any questions or opportunities, please feel free to send me an email at vincent.waisun@gmail.com or you are always welcome to drop me a line of message by easily fill in the form in the Contact page and click Send.
+I will get back to you as soon as possible.
 
-Have fun blogging!
+Thanks and let's keep in touch.
